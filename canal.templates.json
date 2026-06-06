@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "691f3af758c8989a9ccf7bdf"
+  },
+  "name": "Reflexão sobre Versículo - SHORT",
+  "template": "Assunto: {versículo}\n\n0-8 seg (Gancho): Leia o versículo na tela com voz impactante + \"Essa frase muda tudo!\"\n8-40 seg (Explicação curta): Explique o significado em 2-3 frases diretas e profundas.\n40-55 seg (Aplicação imediata): \"Como usar isso HOJE na sua vida real?\"\n55-60 seg (CTA): \"Digita ‘recebo’ se essa palavra é pra você! Salva e compartilha com quem precisa!\"",
+  "category": "Reflexões Bíblicas",
+  "type": "verse",
+  "format": "short",
+  "createdAt": {
+    "$date": "2025-11-20T15:59:51.265Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T15:59:51.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f3aee58c8989a9ccf7bdd"
+  },
+  "name": "Contagem Regressiva de Versículos - SHORT",
+  "template": "Assunto: O versículo #1 sobre {tema} que vai te impactar HOJE\n\n0-5 seg (Gancho): \"Qual o versículo mais forte sobre {tema}? Esse aqui!\"\n5-40 seg (Top 1 direto): Mostre só o versículo Nº 1 da sua lista + explicação em 2 frases poderosas.\n40-55 seg (Aplicação): \"Guarda isso no coração hoje porque…\"\n55-60 seg (CTA): \"Comenta teu versículo favorito sobre {tema}! Segue pra ver o Top 5 completo!\"",
+  "category": "Top Versículos",
+  "type": "theme",
+  "format": "short",
+  "createdAt": {
+    "$date": "2025-11-20T15:59:42.692Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T15:59:42.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f3ada58c8989a9ccf7bdb"
+  },
+  "name": "História Bíblica com Versículos - SHORT",
+  "template": "Assunto: A lição mais forte da história de {personagem bíblico}\n\n0-10 seg (Gancho): \"{personagem} enfrentou isso… e venceu assim!\"\n10-40 seg (História em 3 frases + versículo): Conte só o momento mais impactante da história + jogue o versículo na tela.\n40-55 seg (Lição prática): \"O que você faria no lugar dele hoje?\"\n55-60 seg (CTA): \"Comenta qual personagem você quer ver! Salva e segue pra mais histórias!\"",
+  "category": "Histórias Bíblicas",
+  "type": "person",
+  "format": "short",
+  "createdAt": {
+    "$date": "2025-11-20T15:59:22.883Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T15:59:22.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f39fd84f88de8c9fda60c"
+  },
+  "name": "Profecias Bíblicas - SHORT",
+  "template": "Assunto: Essa profecia está se cumprindo AGORA?\n\n0-8 seg (Gancho forte): \"{profecia resumida em 1 frase bombástica} – isso está acontecendo hoje!\"\n8-35 seg (Leitura + explicação rápida): Leia o versículo principal + \"Isso significa que…\" (explicação em 2 frases no máximo)\n35-55 seg (Impacto): \"O que Deus quer te dizer com isso hoje?\"\n55-60 seg (CTA): \"Comenta ‘Jesus volta’ se você crê! Segue pra mais profecias!\"",
+  "category": "Profecias e Promessas",
+  "type": "book",
+  "format": "short",
+  "createdAt": {
+    "$date": "2025-11-20T15:55:41.181Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T15:55:41.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691f3958d23c78b019c6d144"
+  },
+  "name": "Reflexão sobre Capítulo - SHORT",
+  "template": "Assunto: Reflexão rápida – Capítulo {capítulo}\n\n0-5 seg (Gancho): \"Você sabia que {capítulo} tem uma lição que pode mudar seu dia hoje?\"\n5-25 seg (Resumo em 1 frase + versículo chave): Resuma o capítulo em UMA frase impactante + cite o versículo mais forte.\n25-45 seg (Aplicação prática): \"Como isso se aplica HOJE na sua vida? {aplicação curta e direta}\"\n45-60 seg (CTA): \"Comente ‘amém’ se isso falou com você! Salva e compartilha Inscreva-se para 1 reflexão por dia!\"",
+  "category": "Reflexão sobre Capítulo - SHORT",
+  "type": "chapter",
+  "format": "short",
+  "createdAt": {
+    "$date": "2025-11-20T15:52:56.485Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-20T15:52:56.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ec7d665d70c903ef5f33c"
+  },
+  "name": "Reflexão sobre Capítulo",
+  "template": "Assunto: Capítulo {capítulo} Introdução (1-3 minutos): Apresentação do capítulo escolhido. Contextualize o capítulo dentro do livro da Bíblia, explicando sua importância na narrativa geral. Destaque os temas centrais que o capítulo aborda e por que eles são relevantes para reflexões espirituais ou para a vida diária. Resumo do Capítulo (4-5 minutos): Faça um resumo breve do capítulo, destacando os pontos principais e os eventos ou ensinamentos mais relevantes. Explique o cenário e as figuras importantes no capítulo, situando o espectador no contexto histórico e cultural. Explicação e Interpretação (5-7 minutos): Aprofunde-se no significado dos principais versículos e trechos, interpretando cada parte e conectando-a ao restante do capítulo. Explique como as lições desse capítulo podem ter diferentes interpretações e aplique-as em contextos variados, explorando simbolismos e paralelos. Aplicação Prática (3-5 minutos): Relacione os temas e ensinamentos do capítulo a questões contemporâneas e desafios do cotidiano. Discuta como os pontos abordados no capítulo podem orientar, inspirar ou trazer consolo para os espectadores. Conclusão (1-2 minutos): Recapitule os principais ensinamentos do capítulo e reforce a mensagem central. Proponha uma reflexão final ou uma pergunta para estimular a interação com os espectadores. Termine com uma chamada para ação, incentivando os espectadores a curtir, compartilhar e se inscrever no canal.",
+  "category": "Reflexões Bíblicas",
+  "createdAt": {
+    "$date": "2024-10-27T23:08:06.086Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-27T23:08:06.086Z"
+  },
+  "__v": 0,
+  "type": "chapter",
+  "format": "video"
+},
+{
+  "_id": {
+    "$oid": "66d67a9e2b928451ee3c5548"
+  },
+  "name": "Profecias Bíblicas",
+  "template": "Assunto: Profecia de {livro bíblico}\n\nIntrodução (1-2 minutos):\n- Apresentação da profecia que será discutida.\n- Explique o contexto da profecia e sua relevância.\n\nLeitura da Profecia (2-3 minutos):\n- Leia a profecia diretamente da Bíblia.\n- Ofereça uma explicação básica para os espectadores menos familiarizados com o texto.\n\nAnálise Detalhada (4-5 minutos):\n- Destrinche a profecia, explicando os simbolismos e metáforas presentes.\n- Discuta como essa profecia se relaciona com temas como fé, esperança e promessas divinas.\n- Ofereça uma visão sobre como essas profecias são interpretadas hoje.\n\nConclusão (1-2 minutos):\n- Resuma a análise feita e reforce a importância da profecia.\n- Finalize com uma pergunta ou uma reflexão para engajar os espectadores.\n- Inclua uma chamada para ação.",
+  "category": "Profecias e Promessas",
+  "createdAt": {
+    "$date": "2024-09-03T02:55:26.672Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-03T02:55:26.672Z"
+  },
+  "__v": 0,
+  "type": "book",
+  "format": "video"
+},
+{
+  "_id": {
+    "$oid": "66d67a752b928451ee3c5546"
+  },
+  "name": "História Bíblica com Versículos",
+  "template": "Assunto: História de {personagem bíblico}\n\nIntrodução (1-2 minutos):\n- Introduza o personagem bíblico e a história que será contada.\n- Explique o contexto e a relevância da história.\n\nDesenvolvimento da História (4-5 minutos):\n- Narre a história do personagem, destacando os momentos mais significativos.\n- Inclua versículos chave que se relacionam diretamente com esses momentos.\n- Ofereça uma análise dos acontecimentos e as lições que podem ser aprendidas.\n\nReflexão (3-4 minutos):\n- Discuta as consequências das ações do personagem e as lições morais que podem ser extraídas.\n- Relacione a história com a vida moderna, explorando temas como fé, perseverança e justiça.\n\nConclusão (1-2 minutos):\n- Resuma a história e as lições aprendidas.\n- Encoraje os espectadores a refletir sobre as mensagens abordadas.\n- Finalize com uma chamada para ação.",
+  "category": "Histórias Bíblicas",
+  "createdAt": {
+    "$date": "2024-09-03T02:54:45.670Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-03T02:54:45.670Z"
+  },
+  "__v": 0,
+  "type": "person",
+  "format": "video"
+},
+{
+  "_id": {
+    "$oid": "66d67a3f2b928451ee3c5544"
+  },
+  "name": "Contagem Regressiva de Versículos",
+  "template": "Assunto: Top 5 Versículos sobre {tema}\n\nIntrodução (1-2 minutos):\n- Apresentação do tema escolhido e explicação da relevância dos versículos.\n- Explique o critério de escolha dos versículos para a contagem regressiva.\n\nVersículo 5 (1-2 minutos):\n- Leia o versículo.\n- Explique seu significado e relevância para o tema.\n- Adicione um comentário sobre o impacto do versículo.\n\nVersículo 4 (1-2 minutos):\n- Repita o formato do item anterior, mas com o próximo versículo.\n\nVersículo 3 (1-2 minutos):\n- Continue o padrão, introduzindo o terceiro versículo.\n\nVersículo 2 (1-2 minutos):\n- Siga o mesmo formato, mas com o segundo versículo.\n\nVersículo 1 (1-2 minutos):\n- Apresente o versículo mais impactante da lista.\n- Ofereça uma análise mais detalhada e profunda sobre sua importância.\n\nConclusão (1-2 minutos):\n- Recapitule a lista e reafirme a importância de cada versículo.\n- Encoraje os espectadores a comentar seus próprios versículos favoritos.\n- Finalize com uma chamada para ação.",
+  "category": "Top Versículos",
+  "createdAt": {
+    "$date": "2024-09-03T02:53:51.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-03T02:53:51.800Z"
+  },
+  "__v": 0,
+  "type": "theme",
+  "format": "video"
+},
+{
+  "_id": {
+    "$oid": "66d67a102b928451ee3c5542"
+  },
+  "name": "Reflexão sobre Versículo",
+  "template": "Assunto: Versículo {versículo}\n\nIntrodução (1-2 minutos):\n- Apresentação do versículo escolhido.\n- Contextualize o versículo dentro do livro da Bíblia de onde foi retirado.\n- Explique por que este versículo é relevante para o dia a dia ou para uma reflexão espiritual.\n\nExplicação e Interpretação (3-4 minutos):\n- Destrinche o significado do versículo, explicando cada parte.\n- Explore as implicações e como ele pode ser interpretado em diferentes contextos.\n\nAplicação (3-4 minutos):\n- Relacione o versículo com situações contemporâneas ou desafios da vida.\n- Discuta como os temas abordados no versículo podem inspirar ou orientar as pessoas.\n\nConclusão (1-2 minutos):\n- Resuma os pontos principais abordados no vídeo.\n- Ofereça uma reflexão final ou uma pergunta para engajar os espectadores.\n- Inclua uma chamada para ação, como curtir, compartilhar ou se inscrever no canal.",
+  "category": "Reflexões Bíblicas",
+  "createdAt": {
+    "$date": "2024-09-03T02:53:04.058Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-03T02:53:04.058Z"
+  },
+  "__v": 0,
+  "type": "verse",
+  "format": "video"
+}]

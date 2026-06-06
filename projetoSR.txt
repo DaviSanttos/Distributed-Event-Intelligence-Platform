@@ -1,0 +1,167 @@
+INTRODUÇÃO
+Este documento consolida a IDEIA DO PROJETO, as FASES DE EVOLUÇÃO (1 a 12),
+os CONHECIMENTOS A SEREM ESTUDADOS e as FERRAMENTAS utilizadas,
+seguindo exatamente o que é esperado de um desenvolvedor sênior no mercado.
+
+==================================================
+IDEIA DO PROJETO
+==================================================
+
+Nome:
+Distributed Event Intelligence Platform (DEIP)
+
+Descrição:
+Plataforma SaaS distribuída, multi-tenant, orientada a eventos, capaz de lidar
+com alta concorrência, segurança, observabilidade, escalabilidade e dados em tempo real.
+
+Objetivo do projeto:
+Formar mentalidade sênior em engenharia de software, não apenas domínio de linguagem.
+
+==================================================
+FERRAMENTAS RECOMENDADAS (E POR QUÊ)
+==================================================
+
+Obsidian:
+- Organização de conhecimento em Markdown
+- Usado para ADRs, decisões, estudos e post-mortems
+- Muito utilizado por engenheiros experientes
+
+GitHub:
+- Código, versionamento, issues e pull requests
+- Essencial para workflow profissional
+
+GitHub Projects:
+- Kanban e organização das fases
+- Visualização clara do progresso
+
+Draw.io / Excalidraw:
+- Diagramas de arquitetura (C4)
+- Fluxos e decisões
+
+Docker:
+- Padronização de ambiente
+- Simulação de produção
+
+Cloud (AWS ou GCP):
+- Deploy real
+- Contato com infraestrutura usada no mercado
+
+==================================================
+FASES DO PROJETO (1 A 12)
+==================================================
+
+FASE 1 – Organização e Fundamentos
+Estudar:
+- Git (branches, commits, workflow)
+- Markdown
+- Clean Code (conceitos)
+
+FASE 2 – Java Base Forte
+Estudar:
+- Orientação a Objetos
+- Collections
+- Streams
+- Exceptions
+- Imutabilidade
+
+FASE 3 – Spring Boot Essencial
+Estudar:
+- Spring Boot
+- Controllers
+- Services
+- Repositories
+- Injeção de dependência
+- Profiles
+
+FASE 4 – REST e Persistência
+Estudar:
+- RESTful APIs
+- HTTP status
+- Paginação
+- Versionamento
+- JPA / Hibernate
+- SQL (modelagem, índices)
+- Flyway
+
+FASE 5 – Testes
+Estudar:
+- JUnit
+- Mockito
+- Testes unitários
+- Testes de service
+
+FASE 6 – Angular Básico
+Estudar:
+- TypeScript
+- Angular Standalone
+- Componentes
+- Forms
+- Routing
+- HttpClient
+
+FASE 7 – Angular Intermediário
+Estudar:
+- RxJS
+- Observables
+- State management (conceitos)
+- Guards
+- Interceptors
+- Performance
+
+FASE 8 – Docker e Ambientes
+Estudar:
+- Dockerfile
+- Images
+- Containers
+- Docker Compose
+- Variáveis de ambiente
+
+FASE 9 – CI/CD
+Estudar:
+- GitHub Actions
+- Pipelines
+- Build
+- Testes no pipeline
+- Deploy automatizado
+
+FASE 10 – Cloud
+Estudar:
+- AWS ou GCP
+- Compute (EC2 / VM)
+- Storage (S3)
+- Database (RDS)
+- IAM básico
+
+FASE 11 – Microservices e Kubernetes
+Estudar:
+- Arquitetura de microsserviços
+- Comunicação REST
+- Kubernetes
+- Pods
+- Deployments
+- Services
+
+FASE 12 – Observabilidade, Segurança e Refinamento
+Estudar:
+- Logs estruturados
+- Monitoramento
+- Prometheus
+- Grafana
+- Segurança em aplicações
+- OAuth2
+- Secrets
+- OWASP Top 10
+
+==================================================
+RESULTADO ESPERADO
+==================================================
+
+Ao concluir este projeto você:
+- Pensará como sênior
+- Saberá justificar decisões técnicas
+- Terá experiência prática em arquitetura
+- Terá um projeto completo de nível profissional
+
+Este projeto não é rápido.
+Ele é profundo.
+"""
